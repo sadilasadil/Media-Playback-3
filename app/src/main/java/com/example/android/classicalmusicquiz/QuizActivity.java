@@ -145,7 +145,6 @@ public class QuizActivity extends AppCompatActivity implements View.OnClickListe
 
     /**
      * Initialize ExoPlayer.
-     *
      * @param mediaUri The URI of the sample to play.
      */
     private void initializePlayer(Uri mediaUri) {
